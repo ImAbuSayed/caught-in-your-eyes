@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caught In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-eyes/) |
+| **Get License** | [Music Rights & Licensing for Caught In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I'm caught in the pull of your eyes tonight
+> We're bathed in the glow of the porch string lights
+> Your fingers are drawing a map on my skin
+> And I'm ready to lose just to let you win
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
