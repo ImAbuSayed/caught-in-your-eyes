@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Your Eyes
+
+This log tracks the cryptographic history and versioning for the song **Caught In Your Eyes** (caught-in-your-eyes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:35:01.636975 | `v1` | `d84ca3b9612a7b759b09ec5a6c0ab8030433cde62b69e9b31d7a5226b7103e5e` | `08323671249a7ab219610a187730d6c2b8fa488d51f91114f4ff0f4ab30fc47a` | `2026-05-27_caught-in-your-eyes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

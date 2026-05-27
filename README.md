@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caught In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-eyes/) |
+| **Get License** | [Request Licensing for Caught In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d84ca3b9612a7b759b09ec5a6c0ab8030433cde62b69e9b31d7a5226b7103e5e` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
